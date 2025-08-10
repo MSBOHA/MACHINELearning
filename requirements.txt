@@ -1,0 +1,17 @@
+# Kaggle竞赛常用包
+kaggle
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+plotly
+jupyter
+notebook
+ipykernel
+tqdm
+optuna
+shap
